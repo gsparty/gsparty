@@ -21,7 +21,7 @@ model = load_model()
 # Titel der App
 st.title("Sentiment-Analyse App")
 
-# Eingabefeld für den Benutzertex
+# Eingabefeld für den Benutzertext
 user_input = st.text_area("Gib hier deinen Text ein:")
 
 # Wenn der Benutzer Text eingibt, analysiere den Sentiment
