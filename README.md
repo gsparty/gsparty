@@ -27,6 +27,7 @@ Still true: we're all a few connections apart — might as well use that to buil
 
 ## What I'm currently focused on
 
-- Making repos easier to evaluate quickly (better READMEs, clearer setup, cleaner structure)
+- LLM for company use
 - Turning course and experiment work into stronger portfolio-quality projects
-- Improving reproducibility and project hygiene
+- Automation projects
+- 3D prints
