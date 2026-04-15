@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @gsparty
-- 👀 I’m interested in automation, creativity and making the world a better place :) 
-- 🌱 I’m currently learning for my module, scientific programming, but am also aiming to improve my skills on my way as a security analyst
-- 💞️ I’m looking to collaborate on anything and everything that will teach me the ropes
-- 📫 How to reach me: Mainly on my email: daniel.brody00@gmail.com  
-- ⚡ Fun fact: You know that saying about six degrees of separation? Well, it means that you and I are probably connected by just a few people. Like, you know someone, who knows someone, and so on, and it takes only about six connections to link us all together. It's kinda cool to think about how even though we live all over the world and lead different lives, we're all sort of connected in this big social web.
+# Hi, I'm Daniel (gsparty)
 
-<!---
-gsparty/gsparty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like building practical projects across data, automation, and product-style tooling.
+
+## Featured projects
+
+- [`pharmacy-accessibility-ch`](https://github.com/gsparty/pharmacy-accessibility-ch)  
+  Geospatial accessibility analysis for Swiss pharmacies using PostGIS, GeoPandas, and OpenRouteService.
+
+- [`ml-apartment-rents`](https://github.com/gsparty/ml-apartment-rents)  
+  End-to-end apartment rent prediction pipeline (EDA, preprocessing, modeling, evaluation/XAI).
+
+- [`swiss-cv-generator`](https://github.com/gsparty/swiss-cv-generator)  
+  Synthetic Swiss CV generator with demographic sampling and JSON/PDF export.
+
+- [`bikeHelmetHolder`](https://github.com/gsparty/bikeHelmetHolder)  
+  OpenSCAD project for a rear-mounted second helmet holder for a BMW F800S.
+
+- [`bachelorthesis`](https://github.com/gsparty/bachelorthesis)  
+  Thesis workbench for LLM prompt and model-behavior experiments.
+
+## What I'm currently focused on
+
+- Making repos easier to evaluate quickly (better READMEs, clearer setup, cleaner structure)
+- Turning course and experiment work into stronger portfolio-quality projects
+- Improving reproducibility and project hygiene
+
+## Contact
+
+- Email: `daniel.brody00@gmail.com`
