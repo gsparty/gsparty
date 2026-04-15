@@ -1,6 +1,12 @@
 # Hi, I'm Daniel (gsparty)
 
-I like building practical projects across data, automation, and product-style tooling.
+I'm into automation, building things that actually help, and getting better at the messy parts of real projects — data, deployment, and how systems fail.
+
+I'm studying scientific programming and I care about security: not as a buzzword, but as something you bake in when you design and ship.
+
+I like collaborating with people who are a few steps ahead or working on something concrete. If you've got a project, a bug, or a weird idea, I'm easy to reach — **daniel.brody00@gmail.com**.
+
+Still true: we're all a few connections apart — might as well use that to build something useful.
 
 ## Featured projects
 
@@ -24,7 +30,3 @@ I like building practical projects across data, automation, and product-style to
 - Making repos easier to evaluate quickly (better READMEs, clearer setup, cleaner structure)
 - Turning course and experiment work into stronger portfolio-quality projects
 - Improving reproducibility and project hygiene
-
-## Contact
-
-- Email: `daniel.brody00@gmail.com`
